@@ -7,7 +7,7 @@ function ProductList(props) {
       <img src={props.imgURL} alt="Product Image" />
       <p>{props.description}</p>
       <p>Rating: {props.rating}</p>
-      {/* Removed the cart buttons and logic */}
+      {}
     </div>
   );
 }
