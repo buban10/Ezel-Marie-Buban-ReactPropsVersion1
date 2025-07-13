@@ -14,7 +14,7 @@
 }
 
 .product-card {
-  width: 220px; /* Adjusted for smaller cards */
+  width: 220px; 
   background-color: #fff;
   border-radius: 16px;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
@@ -30,7 +30,7 @@
 
 .product-card img {
   width: 100%;
-  height: 250px; /* Adjusted image size */
+  height: 250px;
   object-fit: cover;
   border-radius: 12px 12px 0 0;
 }
